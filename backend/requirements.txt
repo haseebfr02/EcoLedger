@@ -1,0 +1,5 @@
+Flask==2.3.2
+Flask-Cors==3.0.10
+Flask-PyMongo==2.3.0
+python-dotenv==1.0.0
+web3==6.0.0
